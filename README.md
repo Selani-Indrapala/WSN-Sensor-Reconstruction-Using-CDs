@@ -15,14 +15,3 @@ This repository contains the code and datasets for reproducing the experiments i
 
 - `Datasets/`  
   - Contains the relevant datasets required for running the scripts.
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-
-2. Install the required dependencies (if any).
-
-3. Open the relevant Jupyter notebook (.ipynb) for your dataset and run the cells sequentially.
