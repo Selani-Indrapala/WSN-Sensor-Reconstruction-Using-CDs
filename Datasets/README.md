@@ -11,7 +11,7 @@ This folder contains the datasets required to run the CD-based reconstruction sc
 
 - Due to size constraints, the **Intel Lab dataset** is **not included** in this repository.  
 - You can download it from the following link:  
-  [Intel Lab Sensor Dataset Website](https://db.csail.mit.edu/labdata/labdata.html)
-  [Intel Lab Sensor Dataset Zip File](https://db.csail.mit.edu/labdata/data.txt.gz)  
+  - [Intel Lab Sensor Dataset Website](https://db.csail.mit.edu/labdata/labdata.html)
+  - [Intel Lab Sensor Dataset Zip File](https://db.csail.mit.edu/labdata/data.txt.gz)  
 
 - After downloading, you can use the .txt files with `CD_Reconstruction_IntelLabDataset.ipynb`.
